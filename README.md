@@ -1,0 +1,1 @@
+Este é um aplicativo de lista de tarefas simples desenvolvido para ajudar os usuários a organizar suas atividades diárias. Ele oferece funcionalidades básicas, como adicionar, remover, marcar como concluída e editar tarefas.
